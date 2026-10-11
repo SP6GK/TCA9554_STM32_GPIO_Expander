@@ -1,7 +1,7 @@
 # TCA9554 STM32 GPIO Expander
 
 ## Software
-STM32 HAL driver for the **TCA9554 8-bit I/O expander**. This is a useful IC that I find more capable and easier to use than the common PPCF8574.
+STM32 HAL driver for the **TCA9554 8-bit I/O expander**. This is a useful IC that I find more capable and easier to use than the common PCF8574.
 
 The project includes:
 - HAL based driver
