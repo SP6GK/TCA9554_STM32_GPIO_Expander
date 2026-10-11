@@ -63,3 +63,4 @@ KiCad evaluation board design for the **TCA9554 I/O expander**.
 
 The hardware project includes the schematic and PCB design files, organized under the `ECAD/` directory.
 `Documents/` includes interactive BOM and .pdf schematic.
+![Image of eval board](Documents/PCB.png)
