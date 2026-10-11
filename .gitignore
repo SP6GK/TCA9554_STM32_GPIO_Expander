@@ -1,0 +1,15 @@
+# KiCad backup directories
+**/*-backups/
+
+# KiCad local settings
+**/*.kicad_prl
+
+# KiCad footprint cache
+**/fp-info-cache
+
+# KiCad lock files
+**/*.lck
+
+# OS-generated files
+.DS_Store
+Thumbs.db

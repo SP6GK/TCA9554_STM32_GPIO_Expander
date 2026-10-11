@@ -1,0 +1,22 @@
+Drill report for 0015_TCA9554_GPIO_rev01a.kicad_pcb
+Created on 2026-01-31T14:30:06+0100
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file '0015_TCA9554_GPIO_rev01a-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,700mm  0,0276"  (69 holes)
+
+    Total plated holes count 69
+
+
+Drill file '0015_TCA9554_GPIO_rev01a-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

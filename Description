@@ -1,0 +1,5 @@
+Project number: 0015_TCA9554_GPIO
+Description: Evaluation and development board for TCA9554 8 bit GPIO expander with interrupt.
+Tags: GPIO, expander, dev, evaluation, interrupt, IO, I2C
+Type: Eval
+Includes software?: yes
